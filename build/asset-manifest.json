@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gift-for-lyubov/static/css/main.f98e2e81.css",
+    "main.js": "/gift-for-lyubov/static/js/main.7918c2ad.js",
+    "index.html": "/gift-for-lyubov/index.html",
+    "main.f98e2e81.css.map": "/gift-for-lyubov/static/css/main.f98e2e81.css.map",
+    "main.7918c2ad.js.map": "/gift-for-lyubov/static/js/main.7918c2ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f98e2e81.css",
+    "static/js/main.7918c2ad.js"
+  ]
+}
