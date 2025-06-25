@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/gift-for-lyubov/static/css/main.a7b59fa6.css",
+    "main.css": "/gift-for-lyubov/static/css/main.decf3a86.css",
     "main.js": "/gift-for-lyubov/static/js/main.c0208ded.js",
     "index.html": "/gift-for-lyubov/index.html",
-    "main.a7b59fa6.css.map": "/gift-for-lyubov/static/css/main.a7b59fa6.css.map",
+    "main.decf3a86.css.map": "/gift-for-lyubov/static/css/main.decf3a86.css.map",
     "main.c0208ded.js.map": "/gift-for-lyubov/static/js/main.c0208ded.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7b59fa6.css",
+    "static/css/main.decf3a86.css",
     "static/js/main.c0208ded.js"
   ]
 }
